@@ -52,7 +52,7 @@ I regularly practice programming, explore new technologies, and work on personal
 ### 🤝 Connect With Me
 
 * GitHub: [@ajeet497](https://github.com/ajeet497)
-* LinkedIn: Add your LinkedIn profile URL here
+* LinkedIn: https://www.linkedin.com/in/ajeet-kumar-69a566299/
 
 ---
 
